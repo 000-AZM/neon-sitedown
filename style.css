@@ -1,33 +1,33 @@
 :root {
-    --bg-color: #1a1c1e; /* Deep charcoal instead of pure black */
-    --panel-bg: #25282c; /* Slightly lighter for panels */
-    --neon-blue: #00f3ff;
-    --neon-green: #39ff14;
-    --neon-orange: #ff9e00;
-    --neon-red: #ff003c;
-    --neon-yellow: #f0f000;
-    --text-color: #ffffff; /* Pure white for maximum contrast */
-    --border-glow: 0 0 8px rgba(0, 243, 255, 0.3);
-    --text-glow: 0 0 5px rgba(0, 243, 255, 0.6);
+    --primary-color: #1976d2;
+    --primary-light: #e3f2fd;
+    --secondary-color: #dc3545;
+    --warning-color: #ffc107;
+    --bg-color: #f8f9fa;
+    --surface-color: #ffffff;
+    --text-primary: #212529;
+    --text-secondary: #6c757d;
+    --border-color: #dee2e6;
+    --shadow: 0 2px 4px rgba(0,0,0,0.05), 0 1px 2px rgba(0,0,0,0.1);
+    --shadow-hover: 0 4px 8px rgba(0,0,0,0.1), 0 2px 4px rgba(0,0,0,0.06);
 }
 
 * {
     box-sizing: border-box;
     margin: 0;
     padding: 0;
-    font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; /* More readable font */
+    font-family: 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
 }
 
 body {
     background-color: var(--bg-color);
-    color: var(--text-color);
-    padding: 20px;
-    overflow-x: hidden;
-    line-height: 1.5;
+    color: var(--text-primary);
+    padding: 24px;
+    line-height: 1.6;
 }
 
 .cyber-container {
-    max-width: 1400px;
+    max-width: 1440px;
     margin: 0 auto;
 }
 
@@ -35,59 +35,59 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin-bottom: 20px;
+    margin-bottom: 24px;
+    padding-bottom: 16px;
+    border-bottom: 1px solid var(--border-color);
 }
 
 .neon-text {
-    color: var(--neon-blue);
-    text-shadow: var(--text-glow);
-    font-size: 2.2rem;
-    letter-spacing: 2px;
-    font-weight: 800;
-    text-transform: uppercase;
+    color: var(--primary-color);
+    font-size: 1.75rem;
+    font-weight: 700;
+    letter-spacing: -0.5px;
 }
 
 .live-counter {
-    font-size: 1.1rem;
-    font-weight: bold;
-    color: var(--neon-green);
-    text-shadow: 0 0 5px var(--neon-green);
-    border: 2px solid var(--neon-green);
-    padding: 8px 16px;
-    border-radius: 4px;
-    background: rgba(57, 255, 20, 0.05);
+    font-size: 0.9rem;
+    font-weight: 600;
+    color: var(--primary-color);
+    background: var(--primary-light);
+    padding: 6px 16px;
+    border-radius: 20px;
+    border: 1px solid rgba(25, 118, 210, 0.2);
 }
 
 .neon-border {
-    border: 1px solid rgba(0, 243, 255, 0.4);
-    box-shadow: var(--border-glow);
+    background: var(--surface-color);
     border-radius: 8px;
-    background: var(--panel-bg);
+    box-shadow: var(--shadow);
+    border: 1px solid var(--border-color);
 }
 
 .input-section {
     padding: 20px;
-    margin-bottom: 20px;
+    margin-bottom: 24px;
 }
 
 textarea {
     width: 100%;
     height: 120px;
-    background: #0f1113;
-    border: 1px solid #3f444a;
-    color: var(--neon-green);
-    padding: 15px;
+    background: #fff;
+    border: 1px solid var(--border-color);
+    color: var(--text-primary);
+    padding: 12px;
     font-size: 14px;
-    font-family: 'Courier New', monospace;
+    font-family: 'Consolas', 'Monaco', monospace;
     resize: vertical;
     outline: none;
-    margin-bottom: 15px;
+    margin-bottom: 16px;
     border-radius: 4px;
+    transition: border-color 0.2s;
 }
 
 textarea:focus {
-    border-color: var(--neon-blue);
-    box-shadow: 0 0 8px rgba(0, 243, 255, 0.4);
+    border-color: var(--primary-color);
+    box-shadow: 0 0 0 3px rgba(25, 118, 210, 0.1);
 }
 
 .controls {
@@ -96,159 +96,176 @@ textarea:focus {
 }
 
 .neon-btn {
-    background: rgba(0, 243, 255, 0.1);
-    border: 1px solid var(--neon-blue);
-    color: var(--neon-blue);
-    padding: 10px 20px;
+    background: var(--primary-color);
+    border: none;
+    color: #fff;
+    padding: 10px 24px;
     cursor: pointer;
-    font-weight: bold;
+    font-weight: 600;
+    font-size: 14px;
     text-transform: uppercase;
     transition: all 0.2s ease;
     border-radius: 4px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12);
 }
 
 .neon-btn:hover {
-    background: var(--neon-blue);
-    color: #000;
-    box-shadow: 0 0 15px var(--neon-blue);
+    background: #1565c0;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.2);
 }
 
 .neon-btn.secondary {
-    border-color: var(--neon-red);
-    color: var(--neon-red);
-    background: rgba(255, 0, 60, 0.1);
+    background: #fff;
+    border: 1px solid var(--border-color);
+    color: var(--text-secondary);
+    box-shadow: none;
 }
 
 .neon-btn.secondary:hover {
-    background: var(--neon-red);
-    color: #fff;
-    box-shadow: 0 0 15px var(--neon-red);
+    background: #f8f9fa;
+    border-color: #adb5bd;
+    color: var(--text-primary);
 }
 
 .neon-btn.small {
-    padding: 6px 12px;
+    padding: 6px 16px;
     font-size: 12px;
 }
 
 .filter-section {
     display: flex;
-    gap: 15px;
+    gap: 16px;
     margin-bottom: 20px;
     align-items: center;
     flex-wrap: wrap;
 }
 
 .search-box input, .filter-box select {
-    background: #0f1113;
-    border: 1px solid #3f444a;
-    color: #fff;
+    background: #fff;
+    border: 1px solid var(--border-color);
+    color: var(--text-primary);
     padding: 8px 12px;
     outline: none;
     border-radius: 4px;
+    font-size: 14px;
+    transition: border-color 0.2s;
 }
 
 .search-box input:focus, .filter-box select:focus {
-    border-color: var(--neon-blue);
+    border-color: var(--primary-color);
 }
 
 .table-wrapper {
     overflow-x: auto;
-    max-height: 600px;
+    max-height: 650px;
     position: relative;
     border-radius: 8px;
+    background: #fff;
 }
 
 table {
     width: 100%;
-    border-collapse: collapse;
+    border-collapse: separate;
+    border-spacing: 0;
     min-width: 1100px;
-    background-color: var(--panel-bg);
 }
 
 th {
     position: sticky;
     top: 0;
-    background: #2d3238;
-    color: var(--neon-blue);
+    background: #f1f3f5;
+    color: var(--text-secondary);
     text-transform: uppercase;
-    padding: 14px 10px;
+    padding: 12px 16px;
     text-align: left;
-    border-bottom: 2px solid var(--neon-blue);
+    border-bottom: 2px solid var(--border-color);
     z-index: 10;
     cursor: pointer;
-    font-size: 12px;
-    letter-spacing: 1px;
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: 0.5px;
+}
+
+th:hover {
+    background: #e9ecef;
+    color: var(--text-primary);
 }
 
 td {
-    padding: 12px 10px;
-    border: 1px solid #3f444a;
+    padding: 12px 16px;
+    border-bottom: 1px solid var(--border-color);
     font-size: 13px;
-    color: #e0e0e0;
+    color: var(--text-primary);
+}
+
+tr:last-child td {
+    border-bottom: none;
 }
 
 tr:nth-child(even) {
-    background: rgba(255, 255, 255, 0.02);
+    background: #fafbfc;
 }
 
 tr:hover {
-    background: rgba(0, 243, 255, 0.08) !important;
+    background: #f1f3f5 !important;
 }
 
 tr.high-duration {
-    background: rgba(255, 0, 60, 0.1);
-    color: #ffb3c1;
+    background: #fff5f5 !important;
 }
 
 tr.high-duration td {
-    border-color: rgba(255, 0, 60, 0.3);
+    color: #c92a2a;
 }
 
 tr.medium-duration {
-    background: rgba(240, 240, 0, 0.08);
-    color: #fff4b3;
+    background: #fff9db !important;
 }
 
 tr.medium-duration td {
-    border-color: rgba(240, 240, 0, 0.3);
+    color: #862e01;
 }
 
 .editable-cell {
     outline: none;
+    transition: background 0.2s;
 }
 
 .editable-cell:focus {
-    background: rgba(255, 255, 255, 0.1);
-    box-shadow: inset 0 0 0 1px var(--neon-blue);
+    background: #fff;
+    box-shadow: inset 0 0 0 2px var(--primary-color);
+    border-radius: 2px;
 }
 
 /* Custom Scrollbar */
 ::-webkit-scrollbar {
-    width: 10px;
-    height: 10px;
+    width: 8px;
+    height: 8px;
 }
 
 ::-webkit-scrollbar-track {
-    background: var(--bg-color);
+    background: transparent;
 }
 
 ::-webkit-scrollbar-thumb {
-    background: #3f444a;
-    border-radius: 5px;
-    border: 2px solid var(--bg-color);
+    background: #ced4da;
+    border-radius: 10px;
 }
 
 ::-webkit-scrollbar-thumb:hover {
-    background: var(--neon-blue);
+    background: #adb5bd;
 }
 
 @media (max-width: 768px) {
+    body {
+        padding: 16px;
+    }
     .neon-text {
         font-size: 1.5rem;
     }
     header {
         flex-direction: column;
         align-items: flex-start;
-        gap: 15px;
+        gap: 12px;
     }
 }
