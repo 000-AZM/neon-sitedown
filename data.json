@@ -1,0 +1,2672 @@
+
+ {
+  "Site Code": "BGO0001",
+  "Team": "TEAM01",
+  "Unsafe": "No",
+  "Power model": "Solar+Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0004",
+  "Team": "TEAM01",
+  "Unsafe": "No",
+  "Power model": "Solar+Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0005",
+  "Team": "TEAM04",
+  "Unsafe": "No",
+  "Power model": "Solar+Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO1056",
+  "Team": "TEAM01",
+  "Unsafe": "No",
+  "Power model": "Grid+Solar+DG+BB"
+ },
+ {
+  "Site Code": "BGO0006",
+  "Team": "TEAM01",
+  "Unsafe": "Yes",
+  "Power model": "Solar+Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0013",
+  "Team": "TEAM01",
+  "Unsafe": "No",
+  "Power model": "Grid+BB"
+ },
+ {
+  "Site Code": "BGO0014",
+  "Team": "TEAM01",
+  "Unsafe": "No",
+  "Power model": "Grid+BB"
+ },
+ {
+  "Site Code": "BGO0015",
+  "Team": "TEAM01",
+  "Unsafe": "No",
+  "Power model": "Solar+Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0015_02",
+  "Team": "TEAM01",
+  "Unsafe": "No",
+  "Power model": "Grid+BB"
+ },
+ {
+  "Site Code": "BGO0020",
+  "Team": "TEAM03",
+  "Unsafe": "No",
+  "Power model": "DG+BB"
+ },
+ {
+  "Site Code": "BGO0028",
+  "Team": "TEAM01",
+  "Unsafe": "No",
+  "Power model": "Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0028_01",
+  "Team": "TEAM01",
+  "Unsafe": "No",
+  "Power model": "Grid+BB"
+ },
+ {
+  "Site Code": "BGO0029",
+  "Team": "TEAM01",
+  "Unsafe": "No",
+  "Power model": "DG+BB"
+ },
+ {
+  "Site Code": "BGO0030",
+  "Team": "TEAM02",
+  "Unsafe": "No",
+  "Power model": "Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0035",
+  "Team": "TEAM01",
+  "Unsafe": "No",
+  "Power model": "Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0036",
+  "Team": "TEAM01",
+  "Unsafe": "No",
+  "Power model": "Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0037",
+  "Team": "TEAM02",
+  "Unsafe": "No",
+  "Power model": "Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0046",
+  "Team": "TEAM01",
+  "Unsafe": "No",
+  "Power model": "Solar+Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0048",
+  "Team": "TEAM02",
+  "Unsafe": "No",
+  "Power model": "DG+BB"
+ },
+ {
+  "Site Code": "BGO0058",
+  "Team": "TEAM02",
+  "Unsafe": "No",
+  "Power model": "Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0059",
+  "Team": "TEAM02",
+  "Unsafe": "No",
+  "Power model": "Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0060",
+  "Team": "TEAM04",
+  "Unsafe": "No",
+  "Power model": "Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0062",
+  "Team": "TEAM04",
+  "Unsafe": "No",
+  "Power model": "Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0063",
+  "Team": "TEAM04",
+  "Unsafe": "No",
+  "Power model": "Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0064",
+  "Team": "TEAM04",
+  "Unsafe": "No",
+  "Power model": "Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0065",
+  "Team": "TEAM04",
+  "Unsafe": "No",
+  "Power model": "Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0066",
+  "Team": "TEAM04",
+  "Unsafe": "No",
+  "Power model": "Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0068",
+  "Team": "TEAM03",
+  "Unsafe": "No",
+  "Power model": "Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0069",
+  "Team": "TEAM02",
+  "Unsafe": "No",
+  "Power model": "Solar+Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0072",
+  "Team": "TEAM02",
+  "Unsafe": "No",
+  "Power model": "Solar+Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0073",
+  "Team": "TEAM04",
+  "Unsafe": "No",
+  "Power model": "Solar+Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0074",
+  "Team": "TEAM04",
+  "Unsafe": "No",
+  "Power model": "Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0076",
+  "Team": "TEAM02",
+  "Unsafe": "No",
+  "Power model": "Solar+Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0081",
+  "Team": "TEAM02",
+  "Unsafe": "No",
+  "Power model": "Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0082",
+  "Team": "TEAM03",
+  "Unsafe": "No",
+  "Power model": "Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0083",
+  "Team": "TEAM04",
+  "Unsafe": "No",
+  "Power model": "Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0084",
+  "Team": "TEAM04",
+  "Unsafe": "No",
+  "Power model": "Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0085",
+  "Team": "TEAM04",
+  "Unsafe": "No",
+  "Power model": "Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0086",
+  "Team": "TEAM03",
+  "Unsafe": "No",
+  "Power model": "Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0087",
+  "Team": "TEAM02",
+  "Unsafe": "No",
+  "Power model": "Grid+BB"
+ },
+ {
+  "Site Code": "BGO0088",
+  "Team": "TEAM03",
+  "Unsafe": "No",
+  "Power model": "Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0090",
+  "Team": "TEAM02",
+  "Unsafe": "No",
+  "Power model": "Grid+BB"
+ },
+ {
+  "Site Code": "BGO0090_01",
+  "Team": "TEAM02",
+  "Unsafe": "No",
+  "Power model": "Grid+Solar+BB"
+ },
+ {
+  "Site Code": "BGO0091",
+  "Team": "TEAM02",
+  "Unsafe": "No",
+  "Power model": "Grid+BB"
+ },
+ {
+  "Site Code": "BGO0094",
+  "Team": "TEAM02",
+  "Unsafe": "No",
+  "Power model": "Solar+Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0095",
+  "Team": "TEAM04",
+  "Unsafe": "No",
+  "Power model": "Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0096",
+  "Team": "TEAM04",
+  "Unsafe": "No",
+  "Power model": "Solar+Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0097",
+  "Team": "TEAM02",
+  "Unsafe": "No",
+  "Power model": "Solar+DG+BB"
+ },
+ {
+  "Site Code": "BGO0098",
+  "Team": "TEAM02",
+  "Unsafe": "No",
+  "Power model": "Solar+Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0099",
+  "Team": "TEAM02",
+  "Unsafe": "No",
+  "Power model": "Solar+Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0100",
+  "Team": "TEAM02",
+  "Unsafe": "No",
+  "Power model": "Solar+Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0101",
+  "Team": "TEAM04",
+  "Unsafe": "No",
+  "Power model": "Solar+Grid+BB"
+ },
+ {
+  "Site Code": "BGO0102",
+  "Team": "TEAM03",
+  "Unsafe": "No",
+  "Power model": "Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0102_01",
+  "Team": "TEAM03",
+  "Unsafe": "No",
+  "Power model": "Solar+Grid+BB"
+ },
+ {
+  "Site Code": "BGO0103",
+  "Team": "TEAM03",
+  "Unsafe": "No",
+  "Power model": "Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0104",
+  "Team": "TEAM04",
+  "Unsafe": "No",
+  "Power model": "DG+BB"
+ },
+ {
+  "Site Code": "BGO0105",
+  "Team": "TEAM02",
+  "Unsafe": "No",
+  "Power model": "Solar+Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0108",
+  "Team": "TEAM03",
+  "Unsafe": "No",
+  "Power model": "Grid+BB"
+ },
+ {
+  "Site Code": "BGO0119",
+  "Team": "TEAM02",
+  "Unsafe": "No",
+  "Power model": "Solar+Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0120",
+  "Team": "TEAM02",
+  "Unsafe": "No",
+  "Power model": "DG+BB"
+ },
+ {
+  "Site Code": "BGO0121",
+  "Team": "TEAM02",
+  "Unsafe": "No",
+  "Power model": "Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0122",
+  "Team": "TEAM04",
+  "Unsafe": "No",
+  "Power model": "Solar+Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0123",
+  "Team": "TEAM04",
+  "Unsafe": "No",
+  "Power model": "Solar+Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0124",
+  "Team": "TEAM03",
+  "Unsafe": "No",
+  "Power model": "Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0125",
+  "Team": "TEAM03",
+  "Unsafe": "No",
+  "Power model": "Solar+Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0126",
+  "Team": "TEAM03",
+  "Unsafe": "No",
+  "Power model": "Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0127",
+  "Team": "TEAM04",
+  "Unsafe": "No",
+  "Power model": "Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0128",
+  "Team": "TEAM03",
+  "Unsafe": "No",
+  "Power model": "Grid+BB"
+ },
+ {
+  "Site Code": "BGO0133",
+  "Team": "TEAM03",
+  "Unsafe": "No",
+  "Power model": "Solar+DG+BB"
+ },
+ {
+  "Site Code": "BGO0134",
+  "Team": "TEAM01",
+  "Unsafe": "No",
+  "Power model": "Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0145",
+  "Team": "TEAM01",
+  "Unsafe": "No",
+  "Power model": "Solar+Grid+BB"
+ },
+ {
+  "Site Code": "BGO0146",
+  "Team": "TEAM01",
+  "Unsafe": "No",
+  "Power model": "Solar+Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0147",
+  "Team": "TEAM01",
+  "Unsafe": "No",
+  "Power model": "Solar+Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0148",
+  "Team": "TEAM02",
+  "Unsafe": "No",
+  "Power model": "Solar+Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0151",
+  "Team": "TEAM01",
+  "Unsafe": "No",
+  "Power model": "Solar+DG+BB"
+ },
+ {
+  "Site Code": "BGO0157",
+  "Team": "TEAM03",
+  "Unsafe": "No",
+  "Power model": "Grid+BB"
+ },
+ {
+  "Site Code": "BGO0158",
+  "Team": "TEAM03",
+  "Unsafe": "No",
+  "Power model": "Solar+Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0164",
+  "Team": "TEAM03",
+  "Unsafe": "No",
+  "Power model": "Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0172",
+  "Team": "TEAM02",
+  "Unsafe": "No",
+  "Power model": "Solar+Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0172_01",
+  "Team": "TEAM02",
+  "Unsafe": "No",
+  "Power model": "Grid+BB"
+ },
+ {
+  "Site Code": "BGO0174",
+  "Team": "TEAM03",
+  "Unsafe": "No",
+  "Power model": "Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0175",
+  "Team": "TEAM03",
+  "Unsafe": "No",
+  "Power model": "Solar+Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0179",
+  "Team": "TEAM03",
+  "Unsafe": "No",
+  "Power model": "Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0182",
+  "Team": "TEAM03",
+  "Unsafe": "No",
+  "Power model": "Solar+Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0182_01",
+  "Team": "TEAM03",
+  "Unsafe": "No",
+  "Power model": "Solar+Grid+BB"
+ },
+ {
+  "Site Code": "BGO0186",
+  "Team": "TEAM03",
+  "Unsafe": "No",
+  "Power model": "Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0188",
+  "Team": "TEAM01",
+  "Unsafe": "No",
+  "Power model": "Solar+Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0189",
+  "Team": "TEAM02",
+  "Unsafe": "No",
+  "Power model": "Solar+Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0191",
+  "Team": "TEAM01",
+  "Unsafe": "No",
+  "Power model": "Solar+Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0197",
+  "Team": "TEAM02",
+  "Unsafe": "No",
+  "Power model": "Solar+Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0198",
+  "Team": "TEAM04",
+  "Unsafe": "No",
+  "Power model": "Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0201",
+  "Team": "TEAM01",
+  "Unsafe": "No",
+  "Power model": "Solar+Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0202",
+  "Team": "TEAM02",
+  "Unsafe": "No",
+  "Power model": "Solar+Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0203",
+  "Team": "TEAM03",
+  "Unsafe": "No",
+  "Power model": "Solar+Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0208",
+  "Team": "TEAM03",
+  "Unsafe": "No",
+  "Power model": "Solar+Grid+BB"
+ },
+ {
+  "Site Code": "BGO0217",
+  "Team": "TEAM03",
+  "Unsafe": "No",
+  "Power model": "Solar+DG+BB"
+ },
+ {
+  "Site Code": "BGO0223",
+  "Team": "TEAM04",
+  "Unsafe": "No",
+  "Power model": "Solar+Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0226",
+  "Team": "TEAM01",
+  "Unsafe": "No",
+  "Power model": "Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0233",
+  "Team": "TEAM02",
+  "Unsafe": "No",
+  "Power model": "Solar+Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0234",
+  "Team": "TEAM03",
+  "Unsafe": "No",
+  "Power model": "Solar+Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0238",
+  "Team": "TEAM01",
+  "Unsafe": "No",
+  "Power model": "Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0239",
+  "Team": "TEAM02",
+  "Unsafe": "No",
+  "Power model": "Solar+DG+BB"
+ },
+ {
+  "Site Code": "BGO0239_01",
+  "Team": "TEAM02",
+  "Unsafe": "No",
+  "Power model": "Solar+Grid+BB"
+ },
+ {
+  "Site Code": "BGO0242",
+  "Team": "TEAM03",
+  "Unsafe": "No",
+  "Power model": "Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0252",
+  "Team": "TEAM03",
+  "Unsafe": "No",
+  "Power model": "Solar+Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0253",
+  "Team": "TEAM03",
+  "Unsafe": "No",
+  "Power model": "DG+BB"
+ },
+ {
+  "Site Code": "BGO0254",
+  "Team": "TEAM04",
+  "Unsafe": "No",
+  "Power model": "Solar+Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0255",
+  "Team": "TEAM03",
+  "Unsafe": "No",
+  "Power model": "Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0268",
+  "Team": "TEAM01",
+  "Unsafe": "No",
+  "Power model": "DG+BB"
+ },
+ {
+  "Site Code": "BGO0269",
+  "Team": "TEAM03",
+  "Unsafe": "No",
+  "Power model": "Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0270",
+  "Team": "TEAM03",
+  "Unsafe": "No",
+  "Power model": "Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0277",
+  "Team": "TEAM03",
+  "Unsafe": "No",
+  "Power model": "DG+BB"
+ },
+ {
+  "Site Code": "BGO0281",
+  "Team": "TEAM04",
+  "Unsafe": "No",
+  "Power model": "DG+BB"
+ },
+ {
+  "Site Code": "BGO0282",
+  "Team": "TEAM02",
+  "Unsafe": "No",
+  "Power model": "Solar+Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0283",
+  "Team": "TEAM04",
+  "Unsafe": "No",
+  "Power model": "Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0284",
+  "Team": "TEAM04",
+  "Unsafe": "No",
+  "Power model": "DG+BB"
+ },
+ {
+  "Site Code": "BGO0289",
+  "Team": "TEAM03",
+  "Unsafe": "No",
+  "Power model": "DG+BB"
+ },
+ {
+  "Site Code": "BGO0292",
+  "Team": "TEAM02",
+  "Unsafe": "No",
+  "Power model": "Solar+Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0297",
+  "Team": "TEAM02",
+  "Unsafe": "No",
+  "Power model": "Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0299",
+  "Team": "TEAM02",
+  "Unsafe": "No",
+  "Power model": "Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0300",
+  "Team": "TEAM04",
+  "Unsafe": "No",
+  "Power model": "Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0301",
+  "Team": "TEAM03",
+  "Unsafe": "No",
+  "Power model": "Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0305",
+  "Team": "TEAM04",
+  "Unsafe": "No",
+  "Power model": "Solar+DG+BB"
+ },
+ {
+  "Site Code": "BGO0317",
+  "Team": "TEAM02",
+  "Unsafe": "No",
+  "Power model": "Solar+DG+BB"
+ },
+ {
+  "Site Code": "BGO0318",
+  "Team": "TEAM04",
+  "Unsafe": "No",
+  "Power model": "DG+BB"
+ },
+ {
+  "Site Code": "BGO0319",
+  "Team": "TEAM04",
+  "Unsafe": "No",
+  "Power model": "Solar+DG+BB"
+ },
+ {
+  "Site Code": "BGO0321",
+  "Team": "TEAM04",
+  "Unsafe": "No",
+  "Power model": "DG+BB"
+ },
+ {
+  "Site Code": "BGO0323",
+  "Team": "TEAM04",
+  "Unsafe": "No",
+  "Power model": "DG+BB"
+ },
+ {
+  "Site Code": "BGO0323_01",
+  "Team": "TEAM04",
+  "Unsafe": "No"
+ },
+ {
+  "Site Code": "BGO0324",
+  "Team": "TEAM02",
+  "Unsafe": "No",
+  "Power model": "Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0325",
+  "Team": "TEAM02",
+  "Unsafe": "No",
+  "Power model": "Solar+Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0326",
+  "Team": "TEAM02",
+  "Unsafe": "No",
+  "Power model": "Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0329",
+  "Team": "TEAM03",
+  "Unsafe": "No",
+  "Power model": "Grid+BB"
+ },
+ {
+  "Site Code": "BGO0336",
+  "Team": "TEAM03",
+  "Unsafe": "No",
+  "Power model": "DG+BB"
+ },
+ {
+  "Site Code": "BGO0339",
+  "Team": "TEAM02",
+  "Unsafe": "No",
+  "Power model": "Solar+DG+BB"
+ },
+ {
+  "Site Code": "BGO0346",
+  "Team": "TEAM01",
+  "Unsafe": "No",
+  "Power model": "Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0346_01",
+  "Team": "TEAM01",
+  "Unsafe": "No",
+  "Power model": "Grid+BB"
+ },
+ {
+  "Site Code": "BGO0347",
+  "Team": "TEAM02",
+  "Unsafe": "No",
+  "Power model": "DG+BB"
+ },
+ {
+  "Site Code": "BGO0349",
+  "Team": "TEAM03",
+  "Unsafe": "No",
+  "Power model": "DG+BB"
+ },
+ {
+  "Site Code": "BGO0352",
+  "Team": "TEAM02",
+  "Unsafe": "Yes",
+  "Power model": "Solar+DG+BB"
+ },
+ {
+  "Site Code": "BGO0355",
+  "Team": "TEAM04",
+  "Unsafe": "Yes",
+  "Power model": "DG+BB"
+ },
+ {
+  "Site Code": "BGO0355_01",
+  "Team": "TEAM04",
+  "Unsafe": "Yes",
+  "Power model": "Grid+BB"
+ },
+ {
+  "Site Code": "BGO0356",
+  "Team": "TEAM02",
+  "Unsafe": "No",
+  "Power model": "Solar+DG+BB"
+ },
+ {
+  "Site Code": "BGO0360",
+  "Team": "TEAM01",
+  "Unsafe": "No",
+  "Power model": "DG+BB"
+ },
+ {
+  "Site Code": "BGO0360_01",
+  "Team": "TEAM01",
+  "Unsafe": "No",
+  "Power model": "Grid+BB"
+ },
+ {
+  "Site Code": "BGO0361",
+  "Team": "TEAM01",
+  "Unsafe": "No",
+  "Power model": "DG+BB"
+ },
+ {
+  "Site Code": "BGO0363",
+  "Team": "TEAM02",
+  "Unsafe": "No",
+  "Power model": "Solar+DG+BB"
+ },
+ {
+  "Site Code": "BGO0363_01",
+  "Team": "TEAM02",
+  "Unsafe": "No",
+  "Power model": "Solar+Grid+BB"
+ },
+ {
+  "Site Code": "BGO0367",
+  "Team": "TEAM01",
+  "Unsafe": "No",
+  "Power model": "Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0368",
+  "Team": "TEAM01",
+  "Unsafe": "No",
+  "Power model": "Solar+Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0371",
+  "Team": "TEAM01",
+  "Unsafe": "No",
+  "Power model": "Grid+BB"
+ },
+ {
+  "Site Code": "BGO0383",
+  "Team": "TEAM01",
+  "Unsafe": "No",
+  "Power model": "Solar+Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0390",
+  "Team": "TEAM01",
+  "Unsafe": "No",
+  "Power model": "DG+BB"
+ },
+ {
+  "Site Code": "BGO0391",
+  "Team": "TEAM04",
+  "Unsafe": "No",
+  "Power model": "Solar+Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0395",
+  "Team": "TEAM03",
+  "Unsafe": "No",
+  "Power model": "Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0396",
+  "Team": "TEAM01",
+  "Unsafe": "No",
+  "Power model": "Solar+DG+BB"
+ },
+ {
+  "Site Code": "BGO0401",
+  "Team": "TEAM02",
+  "Unsafe": "No",
+  "Power model": "Solar+DG+BB"
+ },
+ {
+  "Site Code": "BGO0404",
+  "Team": "TEAM02",
+  "Unsafe": "No",
+  "Power model": "Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0405",
+  "Team": "TEAM01",
+  "Unsafe": "No",
+  "Power model": "Solar+DG+BB"
+ },
+ {
+  "Site Code": "BGO0410",
+  "Team": "TEAM02",
+  "Unsafe": "No",
+  "Power model": "Solar+Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0412",
+  "Team": "TEAM01",
+  "Unsafe": "No",
+  "Power model": "Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0414",
+  "Team": "TEAM03",
+  "Unsafe": "No",
+  "Power model": "Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0415",
+  "Team": "TEAM03",
+  "Unsafe": "No",
+  "Power model": "Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0416",
+  "Team": "TEAM01",
+  "Unsafe": "No",
+  "Power model": "DG+BB"
+ },
+ {
+  "Site Code": "BGO0418",
+  "Team": "TEAM01",
+  "Unsafe": "No",
+  "Power model": "Solar+DG+BB"
+ },
+ {
+  "Site Code": "BGO0420",
+  "Team": "TEAM01",
+  "Unsafe": "No",
+  "Power model": "DG+BB"
+ },
+ {
+  "Site Code": "BGO0425",
+  "Team": "TEAM01",
+  "Unsafe": "No",
+  "Power model": "Solar+DG+BB"
+ },
+ {
+  "Site Code": "BGO0426",
+  "Team": "TEAM02",
+  "Unsafe": "No",
+  "Power model": "Solar+Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0426_01",
+  "Team": "TEAM02",
+  "Unsafe": "No",
+  "Power model": "DG+BB"
+ },
+ {
+  "Site Code": "BGO0428",
+  "Team": "TEAM01",
+  "Unsafe": "No",
+  "Power model": "DG+BB"
+ },
+ {
+  "Site Code": "BGO0437",
+  "Team": "TEAM01",
+  "Unsafe": "No",
+  "Power model": "Solar+DG+BB"
+ },
+ {
+  "Site Code": "BGO0441",
+  "Team": "TEAM04",
+  "Unsafe": "No",
+  "Power model": "Solar+Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0447",
+  "Team": "TEAM03",
+  "Unsafe": "No",
+  "Power model": "DG+BB"
+ },
+ {
+  "Site Code": "BGO0453",
+  "Team": "TEAM03",
+  "Unsafe": "No",
+  "Power model": "DG+BB"
+ },
+ {
+  "Site Code": "BGO0455",
+  "Team": "TEAM03",
+  "Unsafe": "No",
+  "Power model": "DG+BB"
+ },
+ {
+  "Site Code": "BGO0456",
+  "Team": "TEAM03",
+  "Unsafe": "No",
+  "Power model": "DG+BB"
+ },
+ {
+  "Site Code": "BGO0459",
+  "Team": "TEAM04",
+  "Unsafe": "No",
+  "Power model": "DG+BB"
+ },
+ {
+  "Site Code": "BGO0465",
+  "Team": "TEAM04",
+  "Unsafe": "No",
+  "Power model": "Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0467",
+  "Team": "TEAM01",
+  "Unsafe": "No",
+  "Power model": "Solar+DG+BB"
+ },
+ {
+  "Site Code": "BGO0468",
+  "Team": "TEAM02",
+  "Unsafe": "No",
+  "Power model": "Solar+DG+BB"
+ },
+ {
+  "Site Code": "BGO0469",
+  "Team": "TEAM01",
+  "Unsafe": "No",
+  "Power model": "Solar+DG+BB"
+ },
+ {
+  "Site Code": "BGO0474",
+  "Team": "TEAM01",
+  "Unsafe": "No",
+  "Power model": "DG+BB"
+ },
+ {
+  "Site Code": "BGO0478",
+  "Team": "TEAM04",
+  "Unsafe": "No",
+  "Power model": "DG+BB"
+ },
+ {
+  "Site Code": "BGO0481",
+  "Team": "TEAM03",
+  "Unsafe": "Yes",
+  "Power model": "Solar+BB"
+ },
+ {
+  "Site Code": "BGO0487",
+  "Team": "TEAM03",
+  "Unsafe": "No",
+  "Power model": "Solar+DG+BB"
+ },
+ {
+  "Site Code": "BGO0504",
+  "Team": "TEAM04",
+  "Unsafe": "No",
+  "Power model": "Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0512",
+  "Team": "TEAM04",
+  "Unsafe": "No",
+  "Power model": "Solar+DG+BB"
+ },
+ {
+  "Site Code": "BGO0521",
+  "Team": "TEAM02",
+  "Unsafe": "No",
+  "Power model": "Solar+Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0524",
+  "Team": "TEAM01",
+  "Unsafe": "No",
+  "Power model": "DG+BB"
+ },
+ {
+  "Site Code": "BGO0531",
+  "Team": "TEAM01",
+  "Unsafe": "No",
+  "Power model": "Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0536",
+  "Team": "TEAM04",
+  "Unsafe": "No",
+  "Power model": "Solar+Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0546",
+  "Team": "TEAM03",
+  "Unsafe": "No",
+  "Power model": "Solar+Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0550",
+  "Team": "TEAM03",
+  "Unsafe": "No",
+  "Power model": "DG+BB"
+ },
+ {
+  "Site Code": "BGO0551",
+  "Team": "TEAM01",
+  "Unsafe": "No",
+  "Power model": "Solar+Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0553",
+  "Team": "TEAM03",
+  "Unsafe": "No",
+  "Power model": "DG+BB"
+ },
+ {
+  "Site Code": "BGO0565",
+  "Team": "TEAM02",
+  "Unsafe": "No",
+  "Power model": "Solar+Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0566",
+  "Team": "TEAM03",
+  "Unsafe": "No",
+  "Power model": "Solar+DG+BB"
+ },
+ {
+  "Site Code": "BGO0567",
+  "Team": "TEAM03",
+  "Unsafe": "No",
+  "Power model": "DG+BB"
+ },
+ {
+  "Site Code": "BGO0592",
+  "Team": "TEAM01",
+  "Unsafe": "No",
+  "Power model": "DG+BB"
+ },
+ {
+  "Site Code": "BGO0593",
+  "Team": "TEAM03",
+  "Unsafe": "No",
+  "Power model": "Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0595",
+  "Team": "TEAM01",
+  "Unsafe": "No",
+  "Power model": "Solar+Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0599",
+  "Team": "TEAM03",
+  "Unsafe": "No",
+  "Power model": "Solar+DG+BB"
+ },
+ {
+  "Site Code": "BGO0601",
+  "Team": "TEAM04",
+  "Unsafe": "No",
+  "Power model": "DG+BB"
+ },
+ {
+  "Site Code": "BGO0608",
+  "Team": "TEAM04",
+  "Unsafe": "No",
+  "Power model": "DG+BB"
+ },
+ {
+  "Site Code": "BGO0610",
+  "Team": "TEAM02",
+  "Unsafe": "Yes",
+  "Power model": "DG+BB"
+ },
+ {
+  "Site Code": "BGO0615",
+  "Team": "TEAM04",
+  "Unsafe": "No",
+  "Power model": "DG+BB"
+ },
+ {
+  "Site Code": "BGO0617",
+  "Team": "TEAM03",
+  "Unsafe": "No",
+  "Power model": "DG+BB"
+ },
+ {
+  "Site Code": "BGO0618",
+  "Team": "TEAM03",
+  "Unsafe": "No",
+  "Power model": "DG+BB"
+ },
+ {
+  "Site Code": "BGO0624",
+  "Team": "TEAM01",
+  "Unsafe": "No",
+  "Power model": "DG+BB"
+ },
+ {
+  "Site Code": "BGO0624_01",
+  "Team": "TEAM01",
+  "Unsafe": "No",
+  "Power model": "Grid+BB"
+ },
+ {
+  "Site Code": "BGO0642",
+  "Team": "TEAM02",
+  "Unsafe": "No",
+  "Power model": "DG+BB"
+ },
+ {
+  "Site Code": "BGO0647",
+  "Team": "TEAM03",
+  "Unsafe": "No",
+  "Power model": "Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0655",
+  "Team": "TEAM01",
+  "Unsafe": "No",
+  "Power model": "DG+BB"
+ },
+ {
+  "Site Code": "BGO0656",
+  "Team": "TEAM01",
+  "Unsafe": "No",
+  "Power model": "DG+BB"
+ },
+ {
+  "Site Code": "BGO0659",
+  "Team": "TEAM01",
+  "Unsafe": "No",
+  "Power model": "Solar+DG+BB"
+ },
+ {
+  "Site Code": "BGO0660",
+  "Team": "TEAM02",
+  "Unsafe": "No",
+  "Power model": "Solar+DG+BB"
+ },
+ {
+  "Site Code": "BGO0662",
+  "Team": "TEAM03",
+  "Unsafe": "No",
+  "Power model": "Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0664",
+  "Team": "TEAM02",
+  "Unsafe": "Yes",
+  "Power model": "Solar+DG+BB"
+ },
+ {
+  "Site Code": "BGO0665",
+  "Team": "TEAM01",
+  "Unsafe": "No",
+  "Power model": "DG+BB"
+ },
+ {
+  "Site Code": "BGO0669",
+  "Team": "TEAM03",
+  "Unsafe": "No",
+  "Power model": "Solar+Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0680",
+  "Team": "TEAM02",
+  "Unsafe": "No",
+  "Power model": "Solar+DG+BB"
+ },
+ {
+  "Site Code": "BGO0695",
+  "Team": "TEAM04",
+  "Unsafe": "No",
+  "Power model": "Solar+Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0697",
+  "Team": "TEAM04",
+  "Unsafe": "No",
+  "Power model": "DG+BB"
+ },
+ {
+  "Site Code": "BGO0700",
+  "Team": "TEAM04",
+  "Unsafe": "No",
+  "Power model": "DG+BB"
+ },
+ {
+  "Site Code": "BGO0714",
+  "Team": "TEAM04",
+  "Unsafe": "No",
+  "Power model": "Solar+DG+BB"
+ },
+ {
+  "Site Code": "BGO0716",
+  "Team": "TEAM03",
+  "Unsafe": "No",
+  "Power model": "DG+BB"
+ },
+ {
+  "Site Code": "BGO0718",
+  "Team": "TEAM04",
+  "Unsafe": "No",
+  "Power model": "Solar+DG+BB"
+ },
+ {
+  "Site Code": "BGO0728",
+  "Team": "TEAM04",
+  "Unsafe": "No",
+  "Power model": "Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0736",
+  "Team": "TEAM01",
+  "Unsafe": "No",
+  "Power model": "Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0740",
+  "Team": "TEAM01",
+  "Unsafe": "No",
+  "Power model": "Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0741",
+  "Team": "TEAM02",
+  "Unsafe": "No",
+  "Power model": "Solar+Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0747",
+  "Team": "TEAM02",
+  "Unsafe": "No",
+  "Power model": "Solar+DG+BB"
+ },
+ {
+  "Site Code": "BGO0753",
+  "Team": "TEAM03",
+  "Unsafe": "No",
+  "Power model": "DG+BB"
+ },
+ {
+  "Site Code": "BGO0760",
+  "Team": "TEAM03",
+  "Unsafe": "No",
+  "Power model": "DG+BB"
+ },
+ {
+  "Site Code": "BGO0766",
+  "Team": "TEAM03",
+  "Unsafe": "No",
+  "Power model": "DG+BB"
+ },
+ {
+  "Site Code": "BGO0769",
+  "Team": "TEAM01",
+  "Unsafe": "No",
+  "Power model": "DG+BB"
+ },
+ {
+  "Site Code": "BGO0770",
+  "Team": "TEAM02",
+  "Unsafe": "Yes",
+  "Power model": "Solar+DG+BB"
+ },
+ {
+  "Site Code": "BGO0783",
+  "Team": "TEAM01",
+  "Unsafe": "No",
+  "Power model": "Solar+DG+BB"
+ },
+ {
+  "Site Code": "BGO0786",
+  "Team": "TEAM03",
+  "Unsafe": "No",
+  "Power model": "Grid+BB"
+ },
+ {
+  "Site Code": "BGO0787",
+  "Team": "TEAM02",
+  "Unsafe": "No",
+  "Power model": "Solar+DG+BB"
+ },
+ {
+  "Site Code": "BGO0789",
+  "Team": "TEAM03",
+  "Unsafe": "No",
+  "Power model": "Solar+Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0792",
+  "Team": "TEAM04",
+  "Unsafe": "No",
+  "Power model": "DG+BB"
+ },
+ {
+  "Site Code": "BGO0793",
+  "Team": "TEAM04",
+  "Unsafe": "No",
+  "Power model": "DG+BB"
+ },
+ {
+  "Site Code": "BGO0794",
+  "Team": "TEAM02",
+  "Unsafe": "No",
+  "Power model": "Solar+Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0803",
+  "Team": "TEAM03",
+  "Unsafe": "No",
+  "Power model": "Solar+DG+BB"
+ },
+ {
+  "Site Code": "BGO0805",
+  "Team": "TEAM03",
+  "Unsafe": "No",
+  "Power model": "Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0825",
+  "Team": "TEAM04",
+  "Unsafe": "No",
+  "Power model": "DG+BB"
+ },
+ {
+  "Site Code": "BGO0829",
+  "Team": "TEAM02",
+  "Unsafe": "Yes",
+  "Power model": "Solar+DG+BB"
+ },
+ {
+  "Site Code": "BGO0830",
+  "Team": "TEAM04",
+  "Unsafe": "No",
+  "Power model": "Solar+Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0832",
+  "Team": "TEAM02",
+  "Unsafe": "No",
+  "Power model": "Solar+Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0832_01",
+  "Team": "TEAM02",
+  "Unsafe": "No",
+  "Power model": "Grid+BB"
+ },
+ {
+  "Site Code": "BGO0833",
+  "Team": "TEAM01",
+  "Unsafe": "Yes",
+  "Power model": "Solar+Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0840",
+  "Team": "TEAM01",
+  "Unsafe": "No",
+  "Power model": "Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0846",
+  "Team": "TEAM01",
+  "Unsafe": "No",
+  "Power model": "Solar+Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0847",
+  "Team": "TEAM01",
+  "Unsafe": "No",
+  "Power model": "Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0851",
+  "Team": "TEAM01",
+  "Unsafe": "No",
+  "Power model": "Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0860",
+  "Team": "TEAM01",
+  "Unsafe": "No",
+  "Power model": "Solar+Grid+BB"
+ },
+ {
+  "Site Code": "BGO0862",
+  "Team": "TEAM01",
+  "Unsafe": "No",
+  "Power model": "Solar+Grid+BB"
+ },
+ {
+  "Site Code": "BGO0864",
+  "Team": "TEAM01",
+  "Unsafe": "No",
+  "Power model": "Solar+Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0877",
+  "Team": "TEAM01",
+  "Unsafe": "No",
+  "Power model": "Grid+BB"
+ },
+ {
+  "Site Code": "BGO0878",
+  "Team": "TEAM01",
+  "Unsafe": "No",
+  "Power model": "Solar+Grid+BB"
+ },
+ {
+  "Site Code": "BGO0892",
+  "Team": "TEAM01",
+  "Unsafe": "No",
+  "Power model": "Solar+Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0897",
+  "Team": "TEAM01",
+  "Unsafe": "No",
+  "Power model": "Solar+Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0912",
+  "Team": "TEAM01",
+  "Unsafe": "No",
+  "Power model": "Solar+Grid+BB"
+ },
+ {
+  "Site Code": "BGO0913",
+  "Team": "TEAM01",
+  "Unsafe": "No",
+  "Power model": "Solar+Grid+BB"
+ },
+ {
+  "Site Code": "BGO0914",
+  "Team": "TEAM01",
+  "Unsafe": "No",
+  "Power model": "Solar+Grid+BB"
+ },
+ {
+  "Site Code": "BGO0919",
+  "Team": "TEAM02",
+  "Unsafe": "Yes",
+  "Power model": "DG+BB"
+ },
+ {
+  "Site Code": "BGO0924",
+  "Team": "TEAM04",
+  "Unsafe": "No",
+  "Power model": "Solar+DG+BB"
+ },
+ {
+  "Site Code": "BGO0930",
+  "Team": "TEAM01",
+  "Unsafe": "No",
+  "Power model": "Solar+Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0932",
+  "Team": "TEAM02",
+  "Unsafe": "No",
+  "Power model": "Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0938",
+  "Team": "TEAM03",
+  "Unsafe": "Yes",
+  "Power model": "Solar+BB"
+ },
+ {
+  "Site Code": "BGO0945",
+  "Team": "TEAM01",
+  "Unsafe": "No",
+  "Power model": "Solar+Grid+BB"
+ },
+ {
+  "Site Code": "BGO0946",
+  "Team": "TEAM01",
+  "Unsafe": "No",
+  "Power model": "Solar+Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0977",
+  "Team": "TEAM01",
+  "Unsafe": "No",
+  "Power model": "Solar+Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO0982",
+  "Team": "TEAM03",
+  "Unsafe": "No",
+  "Power model": "Solar+Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO1001",
+  "Team": "TEAM01",
+  "Unsafe": "No",
+  "Power model": "Solar+Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO1003",
+  "Team": "TEAM04",
+  "Unsafe": "No",
+  "Power model": "Solar+DG+BB"
+ },
+ {
+  "Site Code": "BGO1005",
+  "Team": "TEAM03",
+  "Unsafe": "No",
+  "Power model": "Solar+DG+BB"
+ },
+ {
+  "Site Code": "BGO1012",
+  "Team": "TEAM03",
+  "Unsafe": "No",
+  "Power model": "Solar+Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO1017",
+  "Team": "TEAM01",
+  "Unsafe": "Yes",
+  "Power model": "Solar+DG+BB"
+ },
+ {
+  "Site Code": "BGO1034",
+  "Team": "TEAM01",
+  "Unsafe": "No",
+  "Power model": "Solar+DG+BB"
+ },
+ {
+  "Site Code": "BGO1036",
+  "Team": "TEAM01",
+  "Unsafe": "No",
+  "Power model": "Solar+DG+BB"
+ },
+ {
+  "Site Code": "BGO1037",
+  "Team": "TEAM01",
+  "Unsafe": "No",
+  "Power model": "Solar+DG+BB"
+ },
+ {
+  "Site Code": "BGO1037_01",
+  "Team": "TEAM01",
+  "Unsafe": "No",
+  "Power model": "Grid+BB"
+ },
+ {
+  "Site Code": "BGO1037_02",
+  "Team": "TEAM01",
+  "Unsafe": "No",
+  "Power model": "Grid+BB"
+ },
+ {
+  "Site Code": "BGO1038",
+  "Team": "TEAM01",
+  "Unsafe": "No",
+  "Power model": "Solar+DG+BB"
+ },
+ {
+  "Site Code": "BGO1056",
+  "Team": "TEAM01",
+  "Unsafe": "No",
+  "Power model": "Solar+DG+BB"
+ },
+ {
+  "Site Code": "BGO1057",
+  "Team": "TEAM01",
+  "Unsafe": "No",
+  "Power model": "Solar+Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO1064",
+  "Team": "TEAM03",
+  "Unsafe": "No",
+  "Power model": "Solar+DG+BB"
+ },
+ {
+  "Site Code": "BGO1078",
+  "Team": "TEAM01",
+  "Unsafe": "No",
+  "Power model": "Solar+DG+BB"
+ },
+ {
+  "Site Code": "BGO1079",
+  "Team": "TEAM04",
+  "Unsafe": "No",
+  "Power model": "Solar+DG+BB"
+ },
+ {
+  "Site Code": "BGO1080",
+  "Team": "TEAM04",
+  "Unsafe": "Yes",
+  "Power model": "DG+BB"
+ },
+ {
+  "Site Code": "BGO1081",
+  "Team": "TEAM04",
+  "Unsafe": "No",
+  "Power model": "Solar+Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO1082",
+  "Team": "TEAM02",
+  "Unsafe": "No",
+  "Power model": "Solar+DG+BB"
+ },
+ {
+  "Site Code": "BGO1083",
+  "Team": "TEAM03",
+  "Unsafe": "Yes",
+  "Power model": "Grid+BB"
+ },
+ {
+  "Site Code": "BGO1083_01",
+  "Team": "TEAM03",
+  "Unsafe": "Yes",
+  "Power model": "Grid+BB"
+ },
+ {
+  "Site Code": "BGO1087",
+  "Team": "TEAM01",
+  "Unsafe": "No",
+  "Power model": "Solar+DG+BB"
+ },
+ {
+  "Site Code": "BGO1089",
+  "Team": "TEAM01",
+  "Unsafe": "No",
+  "Power model": "Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO1133",
+  "Team": "TEAM01",
+  "Unsafe": "No",
+  "Power model": "DG+BB"
+ },
+ {
+  "Site Code": "BGO1135",
+  "Team": "TEAM03",
+  "Unsafe": "No",
+  "Power model": "Solar+DG+BB"
+ },
+ {
+  "Site Code": "BGO1136",
+  "Team": "TEAM02",
+  "Unsafe": "No",
+  "Power model": "Solar+DG+BB"
+ },
+ {
+  "Site Code": "BGO1137",
+  "Team": "TEAM01",
+  "Unsafe": "No",
+  "Power model": "DG+BB"
+ },
+ {
+  "Site Code": "BGO1137_01",
+  "Team": "TEAM01",
+  "Unsafe": "No",
+  "Power model": "DG+BB"
+ },
+ {
+  "Site Code": "BGO1139",
+  "Team": "TEAM01",
+  "Unsafe": "No",
+  "Power model": "DG+BB"
+ },
+ {
+  "Site Code": "BGO1140",
+  "Team": "TEAM02",
+  "Unsafe": "No",
+  "Power model": "Solar+Grid+BB"
+ },
+ {
+  "Site Code": "BGO1141",
+  "Team": "TEAM02",
+  "Unsafe": "No",
+  "Power model": "Solar+DG+BB"
+ },
+ {
+  "Site Code": "BGO1142",
+  "Team": "TEAM02",
+  "Unsafe": "No",
+  "Power model": "Solar+Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO1143",
+  "Team": "TEAM02",
+  "Unsafe": "No",
+  "Power model": "Solar+DG+BB"
+ },
+ {
+  "Site Code": "BGO1144",
+  "Team": "TEAM02",
+  "Unsafe": "No",
+  "Power model": "DG+BB"
+ },
+ {
+  "Site Code": "BGO1145",
+  "Team": "TEAM02",
+  "Unsafe": "Yes",
+  "Power model": "Solar+Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO1146",
+  "Team": "TEAM04",
+  "Unsafe": "No",
+  "Power model": "Solar+DG+BB"
+ },
+ {
+  "Site Code": "BGO1147",
+  "Team": "TEAM04",
+  "Unsafe": "No",
+  "Power model": "DG+BB"
+ },
+ {
+  "Site Code": "BGO1148",
+  "Team": "TEAM04",
+  "Unsafe": "No",
+  "Power model": "Solar+DG+BB"
+ },
+ {
+  "Site Code": "BGO1149",
+  "Team": "TEAM03",
+  "Unsafe": "No",
+  "Power model": "Solar+DG+BB"
+ },
+ {
+  "Site Code": "BGO1150",
+  "Team": "TEAM03",
+  "Unsafe": "No",
+  "Power model": "Solar+DG+BB"
+ },
+ {
+  "Site Code": "BGO1151",
+  "Team": "TEAM04",
+  "Unsafe": "No",
+  "Power model": "Solar+DG+BB"
+ },
+ {
+  "Site Code": "BGO1152",
+  "Team": "TEAM03",
+  "Unsafe": "No",
+  "Power model": "Solar+DG+BB"
+ },
+ {
+  "Site Code": "BGO1153",
+  "Team": "TEAM03",
+  "Unsafe": "No",
+  "Power model": "Solar+DG+BB"
+ },
+ {
+  "Site Code": "BGO1153_01",
+  "Team": "TEAM03",
+  "Unsafe": "No",
+  "Power model": "Solar+Grid+BB"
+ },
+ {
+  "Site Code": "BGO1154",
+  "Team": "TEAM03",
+  "Unsafe": "No",
+  "Power model": "Solar+DG+BB"
+ },
+ {
+  "Site Code": "BGO1155",
+  "Team": "TEAM03",
+  "Unsafe": "No",
+  "Power model": "Grid+Solar+BB"
+ },
+ {
+  "Site Code": "BGO1155_01",
+  "Team": "TEAM03",
+  "Unsafe": "No",
+  "Power model": "Grid+BB"
+ },
+ {
+  "Site Code": "BGO1156",
+  "Team": "TEAM03",
+  "Unsafe": "No",
+  "Power model": "Solar+DG+BB"
+ },
+ {
+  "Site Code": "BGO1157",
+  "Team": "TEAM03",
+  "Unsafe": "No",
+  "Power model": "Grid+Solar+BB"
+ },
+ {
+  "Site Code": "BGO1158",
+  "Team": "TEAM03",
+  "Unsafe": "No",
+  "Power model": "Solar+DG+BB"
+ },
+ {
+  "Site Code": "BGO1160",
+  "Team": "TEAM04",
+  "Unsafe": "No",
+  "Power model": "Solar+DG+BB"
+ },
+ {
+  "Site Code": "BGO1160",
+  "Team": "TEAM04",
+  "Unsafe": "No",
+  "Power model": "Solar+DG+BB"
+ },
+ {
+  "Site Code": "BGO1161",
+  "Team": "TEAM02",
+  "Unsafe": "No",
+  "Power model": "Solar+DG+BB"
+ },
+ {
+  "Site Code": "BGO1162",
+  "Team": "TEAM02",
+  "Unsafe": "No",
+  "Power model": "DG+BB"
+ },
+ {
+  "Site Code": "BGO1162_01",
+  "Team": "TEAM02",
+  "Unsafe": "No",
+  "Power model": "Solar+DG+BB"
+ },
+ {
+  "Site Code": "BGO1163",
+  "Team": "TEAM02",
+  "Unsafe": "No",
+  "Power model": "Solar+DG+BB"
+ },
+ {
+  "Site Code": "BGO1164",
+  "Team": "TEAM02",
+  "Unsafe": "No",
+  "Power model": "Solar+DG+BB"
+ },
+ {
+  "Site Code": "BGO1165",
+  "Team": "TEAM04",
+  "Unsafe": "No",
+  "Power model": "Solar+DG+BB"
+ },
+ {
+  "Site Code": "BGO1166",
+  "Team": "TEAM03",
+  "Unsafe": "No",
+  "Power model": "Solar+DG+BB"
+ },
+ {
+  "Site Code": "BGO1167",
+  "Team": "TEAM03",
+  "Unsafe": "No",
+  "Power model": "Solar+DG+BB"
+ },
+ {
+  "Site Code": "BGO1168",
+  "Team": "TEAM03",
+  "Unsafe": "No",
+  "Power model": "Solar+DG+BB"
+ },
+ {
+  "Site Code": "BGO1169",
+  "Team": "TEAM03",
+  "Unsafe": "No",
+  "Power model": "Solar+DG+BB"
+ },
+ {
+  "Site Code": "BGO1170",
+  "Team": "TEAM04",
+  "Unsafe": "No",
+  "Power model": "Solar+DG+BB"
+ },
+ {
+  "Site Code": "BGO1171",
+  "Team": "TEAM03",
+  "Unsafe": "No",
+  "Power model": "Solar+DG+BB"
+ },
+ {
+  "Site Code": "BGO1172",
+  "Team": "TEAM04",
+  "Unsafe": "No",
+  "Power model": "Solar+Grid+BB"
+ },
+ {
+  "Site Code": "BGO1173",
+  "Team": "TEAM04",
+  "Unsafe": "No",
+  "Power model": "Solar+DG+BB"
+ },
+ {
+  "Site Code": "BGO1174",
+  "Team": "TEAM04",
+  "Unsafe": "No",
+  "Power model": "Solar+DG+BB"
+ },
+ {
+  "Site Code": "BGO1175",
+  "Team": "TEAM04",
+  "Unsafe": "Yes",
+  "Power model": "Solar+DG+BB"
+ },
+ {
+  "Site Code": "BGO1176",
+  "Team": "TEAM04",
+  "Unsafe": "Yes",
+  "Power model": "Solar+BB+MDG backup"
+ },
+ {
+  "Site Code": "BGO1213",
+  "Team": "TEAM03",
+  "Unsafe": "No",
+  "Power model": "Solar+DG+BB"
+ },
+ {
+  "Site Code": "BGO1214",
+  "Team": "TEAM02",
+  "Unsafe": "No",
+  "Power model": "DG+BB"
+ },
+ {
+  "Site Code": "BGO1215",
+  "Team": "TEAM02",
+  "Unsafe": "No",
+  "Power model": "Solar+Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO1216",
+  "Team": "TEAM04",
+  "Unsafe": "No",
+  "Power model": "Solar+DG+BB"
+ },
+ {
+  "Site Code": "BGO1217",
+  "Team": "TEAM03",
+  "Unsafe": "No",
+  "Power model": "Solar+DG+BB"
+ },
+ {
+  "Site Code": "BGO1225",
+  "Team": "TEAM03",
+  "Unsafe": "No",
+  "Power model": "Solar+DG+BB"
+ },
+ {
+  "Site Code": "BGO1226",
+  "Team": "TEAM01",
+  "Unsafe": "No",
+  "Power model": "Solar+DG+BB"
+ },
+ {
+  "Site Code": "BGO1228",
+  "Team": "TEAM01",
+  "Unsafe": "No",
+  "Power model": "DG+BB"
+ },
+ {
+  "Site Code": "BGO1241",
+  "Team": "TEAM03",
+  "Unsafe": "No",
+  "Power model": "Solar+DG+BB"
+ },
+ {
+  "Site Code": "BGO1242",
+  "Team": "TEAM02",
+  "Unsafe": "No",
+  "Power model": "Solar+DG+BB"
+ },
+ {
+  "Site Code": "BGO1243",
+  "Team": "TEAM03",
+  "Unsafe": "No",
+  "Power model": "DG+BB"
+ },
+ {
+  "Site Code": "BGO1244",
+  "Team": "TEAM02",
+  "Unsafe": "Yes",
+  "Power model": "Solar+DG+BB"
+ },
+ {
+  "Site Code": "BGO1245",
+  "Team": "TEAM04",
+  "Unsafe": "No",
+  "Power model": "DG+BB"
+ },
+ {
+  "Site Code": "BGO1246",
+  "Team": "TEAM02",
+  "Unsafe": "No",
+  "Power model": "DG+BB"
+ },
+ {
+  "Site Code": "BGO1250",
+  "Team": "TEAM03",
+  "Unsafe": "No",
+  "Power model": "Grid+DG+BB"
+ },
+ {
+  "Site Code": "BGO1251",
+  "Team": "TEAM03",
+  "Unsafe": "No",
+  "Power model": "DG+BB"
+ },
+ {
+  "Site Code": "BGO1252",
+  "Team": "TEAM03",
+  "Unsafe": "No",
+  "Power model": "Grid+BB"
+ },
+ {
+  "Site Code": "BGO1275",
+  "Team": "TEAM04",
+  "Unsafe": "No",
+  "Power model": "Solar+DG+BB"
+ },
+ {
+  "Site Code": "BGO1276",
+  "Team": "TEAM04",
+  "Unsafe": "No",
+  "Power model": "Solar+DG+BB"
+ },
+ {
+  "Site Code": "BGO1277",
+  "Team": "TEAM03",
+  "Unsafe": "No",
+  "Power model": "Solar+DG+BB"
+ },
+ {
+  "Site Code": "BGO1283",
+  "Team": "TEAM04",
+  "Unsafe": "No",
+  "Power model": "DG+BB"
+ },
+ {
+  "Site Code": "BGO1284",
+  "Team": "TEAM02",
+  "Unsafe": "No",
+  "Power model": "DG+BB"
+ },
+ {
+  "Site Code": "BGO1288",
+  "Team": "TEAM01",
+  "Unsafe": "No",
+  "Power model": "Solar+DG+BB"
+ },
+ {
+  "Site Code": "BGO1332",
+  "Team": "TEAM02",
+  "Unsafe": "No",
+  "Power model": "Solar+DG+BB"
+ },
+ {
+  "Site Code": "BGO1334",
+  "Team": "TEAM01",
+  "Unsafe": "No",
+  "Power model": "Solar+DG+BB"
+ },
+ {
+  "Site Code": "BGO1335",
+  "Team": "TEAM01",
+  "Unsafe": "No",
+  "Power model": "Solar+DG+BB"
+ },
+ {
+  "Site Code": "BGO1338",
+  "Team": "TEAM01",
+  "Unsafe": "No",
+  "Power model": "DG+BB"
+ },
+ {
+  "Site Code": "BGO1339",
+  "Team": "TEAM04",
+  "Unsafe": "No",
+  "Power model": "DG+BB"
+ },
+ {
+  "Site Code": "BGO1339_01",
+  "Team": "TEAM04",
+  "Unsafe": "No",
+  "Power model": "Solar+DG+BB"
+ },
+ {
+  "Site Code": "BGO1340",
+  "Team": "TEAM02",
+  "Unsafe": "No",
+  "Power model": "DG+BB"
+ },
+ {
+  "Site Code": "BGO1341",
+  "Team": "TEAM04",
+  "Unsafe": "No",
+  "Power model": "DG+BB"
+ },
+ {
+  "Site Code": "BGO1342",
+  "Team": "TEAM02",
+  "Unsafe": "No",
+  "Power model": "Solar+DG+BB"
+ },
+ {
+  "Site Code": "BGO1343",
+  "Team": "TEAM04",
+  "Unsafe": "No",
+  "Power model": "DG+BB"
+ },
+ {
+  "Site Code": "BGO1344",
+  "Team": "TEAM02",
+  "Unsafe": "No",
+  "Power model": "DG+BB"
+ },
+ {
+  "Site Code": "BGO1345",
+  "Team": "TEAM03",
+  "Unsafe": "No",
+  "Power model": "DG+BB"
+ },
+ {
+  "Site Code": "BGO1346",
+  "Team": "TEAM04",
+  "Unsafe": "No",
+  "Power model": "DG+BB"
+ },
+ {
+  "Site Code": "BGO1348",
+  "Team": "TEAM02",
+  "Unsafe": "No",
+  "Power model": "SolarDG+BB"
+ },
+ {
+  "Site Code": "BGO1349",
+  "Team": "TEAM04",
+  "Unsafe": "No",
+  "Power model": "DG+BB"
+ },
+ {
+  "Site Code": "BGO1350",
+  "Team": "TEAM03",
+  "Unsafe": "No",
+  "Power model": "DG+BB"
+ },
+ {
+  "Site Code": "BGO1351",
+  "Team": "TEAM04",
+  "Unsafe": "No",
+  "Power model": "DG+BB"
+ },
+ {
+  "Site Code": "BGO1353",
+  "Team": "TEAM03",
+  "Unsafe": "No",
+  "Power model": "DG+BB"
+ },
+ {
+  "Site Code": "BGO1355",
+  "Team": "TEAM01",
+  "Unsafe": "No",
+  "Power model": "DG+BB"
+ },
+ {
+  "Site Code": "BGO1356",
+  "Team": "TEAM03",
+  "Unsafe": "No",
+  "Power model": "DG+BB"
+ },
+ {
+  "Site Code": "BGO1357",
+  "Team": "TEAM03",
+  "Unsafe": "No",
+  "Power model": "Solar+DG+BB"
+ },
+ {
+  "Site Code": "BGO1358",
+  "Team": "TEAM02",
+  "Unsafe": "No",
+  "Power model": "Solar+Grid+BB"
+ },
+ {
+  "Site Code": "BGO1359",
+  "Team": "TEAM03",
+  "Unsafe": "No",
+  "Power model": "DG+BB"
+ },
+ {
+  "Site Code": "BGO1360",
+  "Team": "TEAM03",
+  "Unsafe": "No",
+  "Power model": "DG+BB"
+ },
+ {
+  "Site Code": "BGO1361",
+  "Team": "TEAM02",
+  "Unsafe": "No",
+  "Power model": "Solar+DG+BB"
+ },
+ {
+  "Site Code": "BGO1362",
+  "Team": "TEAM02",
+  "Unsafe": "No",
+  "Power model": "Solar+DG+BB"
+ },
+ {
+  "Site Code": "BGO1363",
+  "Team": "TEAM02",
+  "Unsafe": "No",
+  "Power model": "Solar+DG+BB"
+ },
+ {
+  "Site Code": "BGO1365",
+  "Team": "TEAM04",
+  "Unsafe": "No",
+  "Power model": "solar+DG+BB"
+ },
+ {
+  "Site Code": "BGO1366",
+  "Team": "TEAM04",
+  "Unsafe": "No",
+  "Power model": "DG+BB"
+ },
+ {
+  "Site Code": "BGO1367",
+  "Team": "TEAM04",
+  "Unsafe": "No",
+  "Power model": "DG+BB"
+ },
+ {
+  "Site Code": "BGO1369",
+  "Team": "TEAM04",
+  "Unsafe": "Yes",
+  "Power model": "DG+BB"
+ },
+ {
+  "Site Code": "BGO1371",
+  "Team": "TEAM01",
+  "Unsafe": "No",
+  "Power model": "Solar+DG+BB"
+ },
+ {
+  "Site Code": "BGO1373",
+  "Team": "TEAM02",
+  "Unsafe": "No",
+  "Power model": "DG+BB"
+ },
+ {
+  "Site Code": "BGO1374",
+  "Team": "TEAM02",
+  "Unsafe": "No",
+  "Power model": "Grid+BB"
+ },
+ {
+  "Site Code": "BGO1374",
+  "Team": "TEAM02",
+  "Unsafe": "No"
+ },
+ {
+  "Site Code": "BGO1375",
+  "Team": "TEAM04",
+  "Unsafe": "No",
+  "Power model": "Solar+Grid+BB"
+ },
+ {
+  "Site Code": "BGO1375",
+  "Team": "TEAM04",
+  "Unsafe": "No"
+ },
+ {
+  "Site Code": "BGO1376",
+  "Team": "TEAM01",
+  "Unsafe": "No",
+  "Power model": "DG+BB"
+ },
+ {
+  "Site Code": "BGO1396",
+  "Team": "TEAM01",
+  "Unsafe": "No",
+  "Power model": "DG+BB"
+ },
+ {
+  "Site Code": "BGO1132",
+  "Team": "TEAM02",
+  "Unsafe": "No",
+  "Power model": "DG+BB"
+ },
+ {
+  "Site Code": "BGO1399",
+  "Team": "TEAM03",
+  "Unsafe": "No",
+  "Power model": "Solar+DG+BB"
+ },
+ {
+  "Site Code": "BGO1395",
+  "Team": "TEAM04",
+  "Unsafe": "No",
+  "Power model": "DG+BB"
+ },
+ {
+  "Site Code": "BGO1226_01",
+  "Team": "TEAM01",
+  "Unsafe": "No",
+  "Power model": "DG+BB"
+ },
+ {
+  "Site Code": "BGO0185",
+  "Team": "TEAM03",
+  "Unsafe": "No",
+  "Power model": "DG+BB"
+ },
+ {
+  "Site Code": "BGO0211",
+  "Unsafe": "No",
+  "Power model": "DG+BB"
+ },
+ {
+  "Site Code": "BGO0224",
+  "Unsafe": "No",
+  "Power model": "DG+BB"
+ },
+ {
+  "Site Code": "BGO0028_02",
+  "Team": "TEAM01",
+  "Unsafe": "No",
+  "Power model": "DG+BB"
+ },
+ {
+  "Site Code": "BGO1034_01",
+  "Unsafe": "No"
+ },
+ {
+  "Site Code": "BGO0268_01",
+  "Unsafe": "No"
+ },
+ {
+  "Site Code": "BGO0352_01",
+  "Unsafe": "No"
+ },
+ {
+  "Site Code": "BGO1145_01",
+  "Unsafe": "No"
+ },
+ {
+  "Site Code": "BGO1336",
+  "Unsafe": "No"
+ },
+ {
+  "Site Code": "BGO1337",
+  "Unsafe": "No"
+ },
+ {
+  "Site Code": "BGO1347",
+  "Unsafe": "No"
+ },
+ {
+  "Site Code": "BGO1352",
+  "Unsafe": "No"
+ },
+ {
+  "Site Code": "BGO1354",
+  "Unsafe": "No"
+ },
+ {
+  "Site Code": "BGO1364",
+  "Unsafe": "No"
+ },
+ {
+  "Site Code": "BGO1368",
+  "Unsafe": "No"
+ },
+ {
+  "Site Code": "BGO1372",
+  "Unsafe": "No"
+ },
+ {
+  "Site Code": "BGO1349_01",
+  "Unsafe": "No"
+ },
+ {
+  "Site Code": "BGO0086_01",
+  "Unsafe": "No"
+ },
+ {
+  "Site Code": "BGO0242_01",
+  "Unsafe": "No"
+ },
+ {
+  "Site Code": "BGO1388",
+  "Unsafe": "No"
+ },
+ {
+  "Site Code": "BGO1389",
+  "Unsafe": "No"
+ },
+ {
+  "Site Code": "BGO1390",
+  "Unsafe": "No"
+ },
+ {
+  "Site Code": "BGO1391",
+  "Unsafe": "No"
+ },
+ {
+  "Site Code": "BGO1392",
+  "Unsafe": "No"
+ },
+ {
+  "Site Code": "BGO1394",
+  "Unsafe": "No"
+ },
+ {
+  "Site Code": "BGO1395",
+  "Unsafe": "No"
+ },
+ {
+  "Site Code": "BGO1397",
+  "Unsafe": "No"
+ },
+ {
+  "Site Code": "BGO1398",
+  "Team": "TEAM04",
+  "Unsafe": "No",
+  "Power model": "DG+BB"
+ },
+ {
+  "Site Code": "BGO1400",
+  "Team": "TEAM04",
+  "Unsafe": "No",
+  "Power model": "DG+BB"
+ },
+ {
+  "Site Code": "BGO0204",
+  "Unsafe": "No"
+ },
+ {
+  "Site Code": "BGO0210",
+  "Unsafe": "No"
+ },
+ {
+  "Site Code": "BGO1428",
+  "Unsafe": "No"
+ },
+ {
+  "Site Code": "BGO1429",
+  "Unsafe": "No"
+ },
+ {
+  "Site Code": "BGO1430",
+  "Unsafe": "No"
+ },
+ {
+  "Site Code": "BGO1431",
+  "Unsafe": "No"
+ },
+ {
+  "Site Code": "BGO1432",
+  "Unsafe": "No"
+ },
+ {
+  "Site Code": "BGO1433",
+  "Unsafe": "No"
+ },
+ {
+  "Site Code": "BGO0202_01",
+  "Unsafe": "No"
+ },
+ {
+  "Site Code": "BGO0977_01",
+  "Unsafe": "No"
+ },
+ {
+  "Site Code": "BGO1137_02",
+  "Unsafe": "No"
+ },
+ {
+  "Site Code": "BGO1434",
+  "Unsafe": "No"
+ },
+ {
+  "Site Code": "BGO0346_02",
+  "Unsafe": "No"
+ },
+ {
+  "Site Code": "BGO1139_01",
+  "Unsafe": "No"
+ },
+ {
+  "Site Code": "BGO1435",
+  "Unsafe": "No"
+ },
+ {
+  "Site Code": "BGO1139_02",
+  "Unsafe": "No"
+ },
+ {
+  "Site Code": "BGO1436",
+  "Unsafe": "No"
+ },
+ {
+  "Site Code": "BGO1437",
+  "Unsafe": "No"
+ },
+ {
+  "Site Code": "BGO1333",
+  "Unsafe": "No"
+ },
+ {
+  "Site Code": "BGO1440",
+  "Unsafe": "No"
+ },
+ {
+  "Site Code": "BGO1441",
+  "Unsafe": "No"
+ },
+ {
+  "Site Code": "BGO0230",
+  "Unsafe": "No"
+ }
