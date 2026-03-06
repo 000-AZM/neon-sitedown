@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CyberOps | Site Down Monitor</title>
+    <link rel="stylesheet" href="style.css">
+    <!-- Libraries for Export -->
+    <script src="https://cdn.sheetjs.com/xlsx-0.20.1/package/dist/xlsx.full.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
+</head>
+<body>
+    <div class="cyber-container">
+        <header>
+            <h1 class="neon-text">CYBER-OPS MONITOR</h1>
+            <div class="live-counter">TOTAL SITES DOWN: <span id="total-down">0</span></div>
+        </header>
+
+        <section class="input-section neon-border">
+            <textarea id="raw-data" placeholder="Paste raw report text here..."></textarea>
+            <div class="controls">
+                <button id="parse-btn" class="neon-btn">PARSE DATA</button>
+                <button id="clear-btn" class="neon-btn secondary">CLEAR</button>
+            </div>
+        </section>
+
+        <section class="filter-section">
+            <div class="search-box">
+                <input type="text" id="search-site" placeholder="Search Site ID...">
+            </div>
+            <div class="filter-box">
+                <select id="filter-owner">
+                    <option value="">All Owners</option>
+                </select>
+            </div>
+            <div class="export-controls">
+                <button id="export-excel" class="neon-btn small">EXCEL</button>
+                <button id="export-image" class="neon-btn small">IMAGE</button>
+            </div>
+        </section>
+
+        <div class="table-wrapper neon-border">
+            <table id="monitor-table">
+                <thead>
+                    <tr>
+                        <th>No</th>
+                        <th data-sort="siteId">Site ID</th>
+                        <th data-sort="owner">Owner</th>
+                        <th>Start Time</th>
+                        <th data-sort="duration">Duration (h)</th>
+                        <th>Team</th>
+                        <th>Power Model</th>
+                        <th>Unsafe Zone</th>
+                    </tr>
+                </thead>
+                <tbody id="table-body">
+                    <!-- Data rows will be injected here -->
+                </tbody>
+            </table>
+        </div>
+    </div>
+    <script src="app.js"></script>
+</body>
+</html>
