@@ -172,15 +172,40 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 
     exportImageBtn.addEventListener('click', () => {
-        const table = document.querySelector('.table-wrapper');
+        const table = document.getElementById('monitor-table');
+        if (!table || siteData.length === 0) return;
+
+        // Show a simple loading state
+        exportImageBtn.innerText = 'CAPTURING...';
+        exportImageBtn.disabled = true;
+
+        // Use html2canvas to capture the actual table element, not the wrapper
+        // This ensures we get all rows even if they are scrolled out of view in the wrapper
         html2canvas(table, {
             backgroundColor: '#0a0a0a',
-            scale: 2
+            scale: 2, // High quality
+            useCORS: true,
+            logging: false,
+            onclone: (clonedDoc) => {
+                // Ensure the cloned table is fully visible for capture
+                const clonedTable = clonedDoc.getElementById('monitor-table');
+                clonedTable.style.maxHeight = 'none';
+                clonedTable.style.overflow = 'visible';
+            }
         }).then(canvas => {
             const link = document.createElement('a');
-            link.download = 'Site_Down_Dashboard.png';
-            link.href = canvas.toDataURL();
+            link.download = `Site_Down_Report_${new Date().getTime()}.png`;
+            link.href = canvas.toDataURL('image/png');
             link.click();
+            
+            // Reset button state
+            exportImageBtn.innerText = 'IMAGE';
+            exportImageBtn.disabled = false;
+        }).catch(err => {
+            console.error('Capture failed:', err);
+            exportImageBtn.innerText = 'IMAGE';
+            exportImageBtn.disabled = false;
+            alert('Failed to capture image. Please try again.');
         });
     });
 });
