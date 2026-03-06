@@ -10,6 +10,30 @@ document.addEventListener('DOMContentLoaded', () => {
     const exportImageBtn = document.getElementById('export-image');
 
     let siteData = [];
+    let siteMappings = {};
+
+    // --- Load Site Mappings ---
+    fetch('data.json')
+        .then(response => response.json())
+        .then(data => {
+            // Convert array format to lookup object for faster access
+            if (Array.isArray(data)) {
+                data.forEach(item => {
+                    const siteCode = item["Site Code"];
+                    if (siteCode) {
+                        siteMappings[siteCode] = {
+                            team: item["Team"] || "",
+                            unsafe: item["Unsafe"] || "",
+                            powerModel: item["Power Model"] || ""
+                        };
+                    }
+                });
+            } else {
+                siteMappings = data;
+            }
+            console.log('Site mappings loaded and processed:', siteMappings);
+        })
+        .catch(err => console.error('Failed to load site mappings:', err));
 
     // --- Parsing Logic ---
     parseBtn.addEventListener('click', () => {
@@ -60,14 +84,21 @@ document.addEventListener('DOMContentLoaded', () => {
                     startTimeStr = startTime.toLocaleString();
                 }
 
+                // Apply mappings from JSON if available
+                const mapping = siteMappings[siteId] || {};
+                const team = mapping.team || '';
+                const unsafeZone = mapping.unsafe || '';
+                // Use JSON power model if available, otherwise use parsed one
+                const finalPowerModel = mapping.powerModel || powerModel;
+
                 newSites.push({
                     siteId,
                     owner,
                     startTime: startTimeStr,
                     duration,
-                    team: '',
-                    powerModel,
-                    unsafeZone: ''
+                    team,
+                    powerModel: finalPowerModel,
+                    unsafeZone
                 });
             }
         }
@@ -102,8 +133,12 @@ document.addEventListener('DOMContentLoaded', () => {
             // Highlight based on duration
             if (site.duration > 24) {
                 tr.classList.add('high-duration');
+                tr.style.color = '#c92a2a'; // Material Red
+                tr.style.fontWeight = '600';
             } else if (site.duration > 12) {
                 tr.classList.add('medium-duration');
+                tr.style.color = '#862e01'; // Material Dark Yellow/Orange
+                tr.style.fontWeight = '600';
             }
 
             tr.innerHTML = `
@@ -180,9 +215,8 @@ document.addEventListener('DOMContentLoaded', () => {
         exportImageBtn.disabled = true;
 
         // Use html2canvas to capture the actual table element, not the wrapper
-        // This ensures we get all rows even if they are scrolled out of view in the wrapper
         html2canvas(table, {
-            backgroundColor: '#0a0a0a',
+            backgroundColor: '#ffffff',
             scale: 2, // High quality
             useCORS: true,
             logging: false,
