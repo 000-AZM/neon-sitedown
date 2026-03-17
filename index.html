@@ -86,6 +86,19 @@
             </div>
         </footer>
     </div>
+
+    <span id="open-input" title="Paste Telegram Data" style="cursor:pointer; color:#0088cc;">✈</span>
+
+<div id="input-modal" class="modal">
+    <div class="modal-content">
+        <h3>Paste Telegram Report</h3>
+        <textarea id="raw-telegram-data" placeholder="Paste data here... Example: BGO0642 4G NE Is Disconnected 17/03/2026"></textarea>
+        <div class="modal-actions">
+            <button id="process-data" class="action-btn active">Process & Add</button>
+            <button id="close-modal" class="action-btn">Cancel</button>
+        </div>
+    </div>
+</div>
     <script src="app.js"></script>
 </body>
 </html>
