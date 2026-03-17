@@ -3,61 +3,88 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>CyberOps | Site Down Monitor</title>
+    <title>MOBILE - ACCESS: ALARM MONITORING</title>
     <link rel="stylesheet" href="style.css">
-    <!-- Libraries for Export -->
     <script src="https://cdn.sheetjs.com/xlsx-0.20.1/package/dist/xlsx.full.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
 </head>
 <body>
-    <div class="cyber-container">
-        <header>
-            <h1 class="neon-text">CYBER-OPS MONITOR</h1>
-            <div class="live-counter">TOTAL SITES DOWN: <span id="total-down">0</span></div>
+    <div class="app-container">
+        <header class="main-header">
+            <div class="title">MOBILE - ACCESS: ALARM MONITORING</div>
+            <div class="header-tools">
+                <span>✱</span> <span class="refresh-icon">↻</span> <span>🔍</span> <span>✖</span>
+            </div>
         </header>
 
-        <section class="input-section neon-border">
-            <textarea id="raw-data" placeholder="Paste raw report text here..."></textarea>
-            <div class="controls">
-                <button id="parse-btn" class="neon-btn">PARSE DATA</button>
-                <button id="clear-btn" class="neon-btn secondary">CLEAR</button>
-            </div>
-        </section>
+        <div class="summary-bar">Sum <span id="total-down">0</span></div>
 
-        <section class="filter-section">
-            <div class="search-box">
-                <input type="text" id="search-site" placeholder="Search Site ID...">
-            </div>
-            <div class="filter-box">
-                <select id="filter-owner">
-                    <option value="">All Owners</option>
-                </select>
-            </div>
-            <div class="export-controls">
-                <button id="export-excel" class="neon-btn small">EXCEL</button>
-                <button id="export-image" class="neon-btn small">IMAGE</button>
-            </div>
-        </section>
-
-        <div class="table-wrapper neon-border">
+        <div class="table-wrapper" id="capture-area">
             <table id="monitor-table">
                 <thead>
                     <tr>
-                        <th>No</th>
-                        <th data-sort="siteId">Site ID</th>
-                        <th data-sort="owner">Owner</th>
-                        <th>Start Time</th>
-                        <th data-sort="duration">Duration (h)</th>
-                        <th>Team</th>
-                        <th>Power Model</th>
-                        <th>Unsafe Zone</th>
+                        <th style="width: 20px;"><input type="checkbox"></th>
+                        <th>No.</th>
+                        <th>Cabinet type</th>
+                        <th>Station standard name</th>
+                        <th>Alarm name</th>
+                        <th>Cell name</th>
+                        <th>Cell down</th>
+                        <th>Start time</th>
+                        <th>End time</th>
+                        <th>Duration (h)</th>
+                        <th>Number...</th>
+                        <th>Reason</th>
+                        <th>Remark</th>
                     </tr>
                 </thead>
                 <tbody id="table-body">
-                    <!-- Data rows will be injected here -->
-                </tbody>
+                    </tbody>
             </table>
         </div>
+
+        <footer class="filter-pane">
+            <div class="toolbar">
+                <button class="icon-btn">︾</button>
+                <label class="adv-label"><input type="checkbox" id="advanced-check"> Advanced</label>
+                <button id="parse-btn" class="action-btn active">Search</button>
+                <button id="export-excel" class="action-btn">Export</button>
+                <button id="export-image" class="action-btn">Action</button>
+                
+                <div class="pagination">
+                    <span>◀</span> <span class="page-num">1</span> <span>▶</span>
+                    <label>Rows/Page</label>
+                    <select><option>1000</option></select>
+                </div>
+            </div>
+
+            <div class="filter-grid">
+                <div class="filter-col">
+                    <div class="field"><label>BTS/EnodeB</label><input type="text" id="search-site"></div>
+                    <div class="field"><label>Start time from</label><input type="text" placeholder="dd/MM/yyyy 00:00:00"></div>
+                    <div class="field"><label>Cabinet type</label><select><option>--Select--</option></select></div>
+                    <div class="field"><label>Staff</label><select><option>--Select--</option></select></div>
+                </div>
+                <div class="filter-col">
+                    <div class="field"><label>BSC/LTE code</label><input type="text"></div>
+                    <div class="field"><label>Start time to</label><input type="text" placeholder="dd/MM/yyyy 00:00:00"></div>
+                    <div class="field"><label>Area</label><select><option>Myanmar Zone</option></select></div>
+                    <div class="field"><label>Confirm</label><select><option>--Select--</option></select></div>
+                </div>
+                <div class="filter-col">
+                    <div class="field"><label>Alarm group</label><select id="filter-owner"><option value="">Flow Loss</option></select></div>
+                    <div class="field"><label>Alarm status</label><select><option>New alarm</option></select></div>
+                    <div class="field"><label>Province</label><select><option>Bago Region (West)</option></select></div>
+                    <div class="field"><label>Send ticket</label><select><option>--Select--</option></select></div>
+                </div>
+                <div class="filter-col">
+                    <div class="field"><label>Alarm name</label><input type="text" value="NE Is Disconnected."></div>
+                    <div class="field"><label>Alarm level</label><select><option>--Select--</option></select></div>
+                    <div class="field"><label>Department</label><select><option>--Select--</option></select></div>
+                    <div class="field"><label>Monitoring t...</label><select><option>Garbage warning s...</option></select></div>
+                </div>
+            </div>
+        </footer>
     </div>
     <script src="app.js"></script>
 </body>
