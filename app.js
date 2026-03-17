@@ -243,3 +243,27 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     });
 });
+
+// Function to handle image export (Action button)
+document.getElementById('export-image').addEventListener('click', () => {
+    html2canvas(document.querySelector("#capture-area")).then(canvas => {
+        let link = document.createElement('a');
+        link.download = 'alarm-monitor.png';
+        link.href = canvas.toDataURL();
+        link.click();
+    });
+});
+
+// Function to handle Excel export
+document.getElementById('export-excel').addEventListener('click', () => {
+    const table = document.getElementById("monitor-table");
+    const wb = XLSX.utils.table_to_book(table);
+    XLSX.writeFile(wb, "Alarm_Report.xlsx");
+});
+
+// Mock Parse logic (update this with your actual parser)
+document.getElementById('parse-btn').addEventListener('click', () => {
+    const tableBody = document.getElementById('table-body');
+    // Your logic to take textarea input and turn it into <tr><td>...</td></tr>
+    console.log("Searching/Parsing data...");
+});
